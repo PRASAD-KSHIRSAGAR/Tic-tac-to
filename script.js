@@ -10,6 +10,7 @@ const changeTurn = ()=>{
    return turn ==="x"?"0":"x"
 }
 
+
 //function to check win
 const checkwin =()=>{
     let boxtext =document.getElementsByClassName('boxtext');
